@@ -1,11 +1,6 @@
 Hi, I'm **@mariaioan** &
 - 🔭 I’m currently working on **connectomics analysis** in the fly
 - 🌱 I’m currently learning how to analyze large databases & evolving in **Python**!
-- Python, C++, Matlab
-
-How to reach me: mioannid@students.uni-mainz.de
-
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
