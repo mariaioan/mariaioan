@@ -1,4 +1,4 @@
-<h3 Hi, I'm **@mariaioan** & </h3>
+<h3 align="left"> Hi, I'm **@mariaioan** & </h3>
 - 🔭 I’m currently working on **connectomics analysis** in the fly
 - 🌱 I’m currently learning how to analyze large databases & evolving in **Python**!
 
