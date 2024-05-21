@@ -2,7 +2,7 @@ Hi, I'm **@mariaioan** &
 - 🔭 I’m currently working on **connectomics analysis** in the fly
 - 🌱 I’m currently learning how to analyze large databases & evolving in **Python**!
 
-< align="left">Connect with me:</>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maria ioannidou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maria ioannidou" height="30" width="40" /></a>
 </p>
