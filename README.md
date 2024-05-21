@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm @mariaioan</h1>
-<h3 align="center">A passionate Master student in Neuroscience for data analysis!</h3>
+<h2 align="left">Hi 👋, I'm @mariaioan</h2>
+<h3 align="left">A passionate Master student in Neuroscience for data analysis!</h3>
 
 - 🔭 I’m currently working on **I’m connectomics analysis in the fly**
 
